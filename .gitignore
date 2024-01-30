@@ -4,3 +4,5 @@ dist/
 shell.nix
 .cabal-sandbox
 cabal.sandbox.config
+/dist-newstyle/
+/.direnv/
